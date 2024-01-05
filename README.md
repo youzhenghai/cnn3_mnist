@@ -1,2 +1,3 @@
 # cnn3_mnist
-a recipe for mnist with 3 layer cnn that use different  norm
+a code for homework that deal mnist with 3 layer cnn that use different norm and dropout 
+Cross validation search the beat hyperparameters
